@@ -22,6 +22,7 @@ var games = {
     "croket4":"Croket! 4 - Bank no Mori no Mamorigami",
     "digimon_racing":"Digimon Racing",
     "dbz_supersonic":"Dragon Ball Z - Supersonic Warriors",
+    "dbzlegacyofgokuII": "Dragon Ball Z Legacy of Goku II",
     "drilldozer":"Drill Dozer",
     "earthwormjim":"Earthworm Jim",
     "earthwormjim2":"Earthworm Jim 2",
